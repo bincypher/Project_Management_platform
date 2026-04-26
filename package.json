@@ -1,0 +1,32 @@
+{
+  "name": "project_management_platform",
+  "version": "1.0.0",
+  "description": "a project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bincypher/Project_Management_platform.git"
+  },
+  "keywords": [
+    "project",
+    "management",
+    "backend",
+    "api",
+    "creation",
+    "backend",
+    "concepts"
+  ],
+  "author": "Binayak Bidyasagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bincypher/Project_Management_platform/issues"
+  },
+  "homepage": "https://github.com/bincypher/Project_Management_platform#readme",
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
